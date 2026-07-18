@@ -8,4 +8,3 @@ void main_kernel_function(void) {
     }
 }
 
-
